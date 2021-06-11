@@ -3,9 +3,6 @@ n = int(input('amount of files:\n'))
 for k in range(n):
     placesMas.append(input('file {}\n'.format(k + 1)))
 
-# C:\Users\fk724s\OneDrive\Документы\files\Programming\replaceFuncInfo\firstDoc.txt
-# C:\Users\fk724s\OneDrive\Документы\files\Programming\replaceFuncInfo\secondDoc.txt
-# C:\Users\fk724s\OneDrive\Документы\files\Programming\replaceFuncInfo\thirdDoc.txt
 
 a = input('string (type in format: old line-new line)\n').split('-')
 wordInput = a[0]

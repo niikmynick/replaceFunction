@@ -7,9 +7,11 @@ the code allows you to replace one line with another in several files at once.
 <br />
 first steps:
 
-download a .py file here - https://drive.google.com/file/d/17JxLpk1aPg5q-S5V98GY0QRTzl2_1mOd/view?usp=sharing
+1. Clone project to your local machine
+`git clone https://github.com/niikmynick/replaceFunction.git`
+2. Start app
+`python replaceFunc.py`
 
-download and install last python version from python.org (if you haven't installed it yet)
 <br />
 <br />
 <br />

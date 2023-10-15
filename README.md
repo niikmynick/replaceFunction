@@ -2,19 +2,13 @@
 'autoreplace'
 
 the code allows you to replace one line with another in several files at once.
-<br />
-<br />
-<br />
-first steps:
+---
 
 1. Clone project to your local machine
 `git clone https://github.com/niikmynick/replaceFunction.git`
 2. Start app
 `python replaceFunc.py`
 
-<br />
-<br />
-<br />
 how to use:
 
 create txt files and copy the path for each of them
